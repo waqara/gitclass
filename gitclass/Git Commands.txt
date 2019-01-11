@@ -1,0 +1,1 @@
+Following are some of git commands: 
